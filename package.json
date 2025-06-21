@@ -24,7 +24,10 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hook-form": "^7.58.1",
-    "tailwind-merge": "^3.3.1"
+    "react-select": "^5.10.1",
+    "react-world-flags": "^1.6.0",
+    "tailwind-merge": "^3.3.1",
+    "world-countries": "^5.1.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
